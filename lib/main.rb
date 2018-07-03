@@ -1,4 +1,4 @@
 require_relative 'game.rb'
 
 game = Game.new
-game.print_board
+game.play_game
